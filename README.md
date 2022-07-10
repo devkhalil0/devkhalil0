@@ -1,15 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-table, th, td {
-  border: 1px solid;
-}
 
-table {
-  width: 100%;
-}
-</style>
 </head>
 <body>
 
