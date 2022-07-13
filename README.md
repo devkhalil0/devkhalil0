@@ -7,17 +7,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Online &hearts; Resume">
 <title>Online &hearts; Resume</title>
-<script src="/cdn-cgi/apps/head/CSeW3pmRtB9TR5Er2cwW-4THMqM.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons/css/academicons.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/charts.css/dist/charts.min.css">
-<link id="theme-style" rel="stylesheet" href="/online-resume/assets/css/main.css">
+
 </head>
 <body>
 <div class="wrapper">
 <section class="basic">
 <div class="avatar">
-<img src="/online-resume/assets/images/profile.png" alt="avatar">
+<img src="https://avatars.githubusercontent.com/u/70958192?v=4" alt="avatar">
 </div>
 <div class="header">
 <h2 class="name">Foo Bar</h2>
@@ -364,5 +360,5 @@ Self-evaluation
 </small>
 </div>
 </footer>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</body>
 </html>
