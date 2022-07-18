@@ -1,24 +1,6 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Online &hearts; Resume">
-<title>Online &hearts; Resume</title>
-
-</head>
-<body>
-<div class="wrapper">
-<section class="basic">
-<div class="avatar">
 <img src="https://avatars.githubusercontent.com/u/70958192?v=4" alt="avatar">
-</div>
-<div class="header">
-<h2 class="name">Foo Bar</h2>
-<h3 class="title">Backend Developer</h3>
-<div class="contact">
+
 <ul class="list-unstyled">
 <li class="email"><i class="fas fa-envelope"></i>
 <a href="/cdn-cgi/l/email-protection#dbb6be9bbea3bab6abb7bef5b8b4b6"><span class="__cf_email__" data-cfemail="28454d684d50494558444d064b4745">[email&#160;protected]</span></a>
@@ -36,31 +18,13 @@
 <a href="https://twitter.com/twitter" target="_blank">twitter</a>
 </li>
 </ul>
-</div>
-</div>
-</section>
-<section class="profile">
-<div class="section-title">
-Profile
-</div>
-<div class="section-content">
-<div class="markdown">
+
 <p>It’s your career profile, you can wirte markdown format text.</p>
 <ul>
 <li>First</li>
 <li>Second</li>
 </ul>
-<p>…</p>
-</div>
-</div>
-</section>
-<section class="experiences">
-<div class="section-title">
-Experiences
-</div>
-<div class="section-content">
-<div class="item">
-<div class="upper-row">
+
 <div class="company">
 Second Company
 </div>
@@ -77,12 +41,7 @@ Second Company
 <li>First</li>
 <li>Second</li>
 </ul>
-<p>…</p>
-</div>
-</div>
-</div>
-<div class="item">
-<div class="upper-row">
+
 <div class="company">
 First Company
 <small>[Remote, part-time]</small>
@@ -100,20 +59,7 @@ First Company
 <li>First</li>
 <li>Second</li>
 </ul>
-<p>…</p>
-</div>
-</div>
-</div>
-</div>
-</section>
 
-<section class="projects">
-<div class="section-title">
-Projects
-</div>
-<div class="section-content">
-<div class="intro">
-<div class="markdown">
 <p><p>This is all the projects I’m involved in.</p>
 </p>
 </div>
@@ -152,10 +98,7 @@ Skills
 <li>First</li>
 <li>Second</li>
 </ul>
-<p>…</p>
-</div>
-</div>
-<div class="levels">
+
 <table class="charts-css bar stacked show-labels data-spacing-5" style="height: calc(3 * 25px)">
 <tbody>
 <tr>
@@ -175,9 +118,7 @@ Skills
 </tr>
 </tbody>
 </table>
-</div>
-</div>
-</section>
+
 <section class="educations">
 <div class="section-title">
 Education
