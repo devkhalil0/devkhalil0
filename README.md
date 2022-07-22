@@ -1,5 +1,5 @@
 
-<img src="https://avatars.githubusercontent.com/u/70958192?v=4" alt="avatar">
+<img width="22" height="22" src="https://avatars.githubusercontent.com/u/70958192?v=4" alt="avatar">
 
 <ul class="list-unstyled">
 <li class="email"><i class="fas fa-envelope"></i>
